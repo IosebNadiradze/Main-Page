@@ -98,6 +98,10 @@ h2 span{
     color: #CBD5E1;
 }
 
+.branch{
+    font-size: 100px;
+}
+
 .card div p:first-child{
     margin-bottom: 14px;
 }
